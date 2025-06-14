@@ -8,7 +8,7 @@
 - 🗺️ Tableau for geographical mapping
 
 ---
-## 🗃️ Data Structure (MySQL Tables)
+## 🗃️ Data Structure 
 
 | Table Name        | Description                                 |
 |-------------------|---------------------------------------------|
