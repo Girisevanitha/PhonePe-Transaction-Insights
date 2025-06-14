@@ -8,6 +8,19 @@
 - 🗺️ Tableau for geographical mapping
 
 ---
+## 🗃️ Data Structure (MySQL Tables)
+
+| Table Name        | Description                                 |
+|-------------------|---------------------------------------------|
+| `ag_transaction`  | Aggregated transactions by state/year       |
+| `ag_user`         | User brand data by state/year               |
+| `ag_insurance`    | Insurance transaction data                  |
+| `mp_user`         | Map-based user data (district-level)        |
+| `mp_trans`        | District-level transaction data             |
+| `mp_insurance`    | District-level insurance data               |
+| `top_users`       | Top registered users by pincode             |
+| `top_trans`       | Top transactions by pincode                 |
+| `top_insurance`   | Top insurance transaction locations         |
 
 ## 🔍 Business Use Cases Covered
 
